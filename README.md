@@ -7,6 +7,7 @@
 | ------- |
 | [0015-3sum](https://github.com/nikhilraj-git/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/nikhilraj-git/Leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/nikhilraj-git/Leetcode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/nikhilraj-git/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilraj-git/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nikhilraj-git/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -36,4 +37,12 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilraj-git/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nikhilraj-git/Leetcode/tree/master/0152-maximum-product-subarray) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/nikhilraj-git/Leetcode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/nikhilraj-git/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
