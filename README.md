@@ -28,11 +28,13 @@
 | [0075-sort-colors](https://github.com/nikhilraj-git/Leetcode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/nikhilraj-git/Leetcode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj-git/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/nikhilraj-git/Leetcode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj-git/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Counting
 |  |
 | ------- |
@@ -65,14 +67,21 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhilraj-git/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilraj-git/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhilraj-git/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilraj-git/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhilraj-git/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilraj-git/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
