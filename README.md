@@ -55,12 +55,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nikhilraj-git/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilraj-git/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nikhilraj-git/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nikhilraj-git/Leetcode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/nikhilraj-git/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/nikhilraj-git/Leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
@@ -135,4 +137,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/nikhilraj-git/Leetcode/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nikhilraj-git/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nikhilraj-git/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
