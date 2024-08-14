@@ -14,6 +14,7 @@
 | [0162-find-peak-element](https://github.com/nikhilraj-git/Leetcode/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/nikhilraj-git/Leetcode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj-git/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/nikhilraj-git/Leetcode/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
