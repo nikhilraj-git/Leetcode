@@ -14,6 +14,7 @@
 | [0152-maximum-product-subarray](https://github.com/nikhilraj-git/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/nikhilraj-git/Leetcode/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/nikhilraj-git/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/nikhilraj-git/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nikhilraj-git/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj-git/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/nikhilraj-git/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -32,12 +33,14 @@
 | [0015-3sum](https://github.com/nikhilraj-git/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/nikhilraj-git/Leetcode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/nikhilraj-git/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/nikhilraj-git/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj-git/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/nikhilraj-git/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/nikhilraj-git/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj-git/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Counting
@@ -53,6 +56,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nikhilraj-git/Leetcode/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/nikhilraj-git/Leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -61,6 +65,7 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/nikhilraj-git/Leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/nikhilraj-git/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj-git/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Stack
 |  |
@@ -112,4 +117,8 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhilraj-git/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/nikhilraj-git/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
