@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nikhilraj-git/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/nikhilraj-git/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/nikhilraj-git/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/nikhilraj-git/Leetcode/tree/master/0268-missing-number) |
 ## Matrix
@@ -150,4 +151,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nikhilraj-git/Leetcode/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/nikhilraj-git/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
