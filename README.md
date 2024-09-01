@@ -13,6 +13,7 @@
 | [0056-merge-intervals](https://github.com/nikhilraj-git/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/nikhilraj-git/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/nikhilraj-git/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/nikhilraj-git/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilraj-git/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/nikhilraj-git/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/nikhilraj-git/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -30,6 +31,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilraj-git/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/nikhilraj-git/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/nikhilraj-git/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/nikhilraj-git/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/nikhilraj-git/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj-git/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nikhilraj-git/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -39,6 +41,7 @@
 | [0015-3sum](https://github.com/nikhilraj-git/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/nikhilraj-git/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nikhilraj-git/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/nikhilraj-git/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/nikhilraj-git/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/nikhilraj-git/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj-git/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
