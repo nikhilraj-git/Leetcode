@@ -62,6 +62,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/nikhilraj-git/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nikhilraj-git/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilraj-git/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nikhilraj-git/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/nikhilraj-git/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nikhilraj-git/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/nikhilraj-git/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nikhilraj-git/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/nikhilraj-git/Leetcode/tree/master/0268-missing-number) |
 ## Matrix
@@ -155,4 +157,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/nikhilraj-git/Leetcode/tree/master/0050-powx-n) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/nikhilraj-git/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
