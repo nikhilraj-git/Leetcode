@@ -15,6 +15,7 @@
 | [0075-sort-colors](https://github.com/nikhilraj-git/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nikhilraj-git/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilraj-git/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/nikhilraj-git/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/nikhilraj-git/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/nikhilraj-git/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/nikhilraj-git/Leetcode/tree/master/0162-find-peak-element) |
@@ -51,6 +52,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nikhilraj-git/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/nikhilraj-git/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/nikhilraj-git/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj-git/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -161,4 +163,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nikhilraj-git/Leetcode/tree/master/0062-unique-paths) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nikhilraj-git/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
