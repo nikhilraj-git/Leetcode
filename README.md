@@ -78,6 +78,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilraj-git/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nikhilraj-git/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/nikhilraj-git/Leetcode/tree/master/0198-house-robber) |
+| [0516-longest-palindromic-subsequence](https://github.com/nikhilraj-git/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/nikhilraj-git/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/nikhilraj-git/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Math
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/nikhilraj-git/Leetcode/tree/master/0044-wildcard-matching) |
+| [0516-longest-palindromic-subsequence](https://github.com/nikhilraj-git/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/nikhilraj-git/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Greedy
 |  |
