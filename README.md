@@ -70,6 +70,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/nikhilraj-git/Leetcode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/nikhilraj-git/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/nikhilraj-git/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/nikhilraj-git/Leetcode/tree/master/0070-climbing-stairs) |
@@ -173,6 +174,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nikhilraj-git/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/nikhilraj-git/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/nikhilraj-git/Leetcode/tree/master/0050-powx-n) |
 ## Combinatorics
 |  |
@@ -191,5 +193,10 @@
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/nikhilraj-git/Leetcode/tree/master/0044-wildcard-matching) |
 | [1250-longest-common-subsequence](https://github.com/nikhilraj-git/Leetcode/tree/master/1250-longest-common-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/nikhilraj-git/Leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
