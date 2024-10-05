@@ -78,6 +78,7 @@
 | [0152-maximum-product-subarray](https://github.com/nikhilraj-git/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/nikhilraj-git/Leetcode/tree/master/0198-house-robber) |
 | [0967-minimum-falling-path-sum](https://github.com/nikhilraj-git/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/nikhilraj-git/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -187,4 +188,8 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nikhilraj-git/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/nikhilraj-git/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/nikhilraj-git/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+## String
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/nikhilraj-git/Leetcode/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
