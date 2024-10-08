@@ -27,6 +27,7 @@
 | [0283-move-zeroes](https://github.com/nikhilraj-git/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilraj-git/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj-git/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/nikhilraj-git/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/nikhilraj-git/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0967-minimum-falling-path-sum](https://github.com/nikhilraj-git/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nikhilraj-git/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -79,6 +80,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilraj-git/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nikhilraj-git/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/nikhilraj-git/Leetcode/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/nikhilraj-git/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/nikhilraj-git/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/nikhilraj-git/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0967-minimum-falling-path-sum](https://github.com/nikhilraj-git/Leetcode/tree/master/0967-minimum-falling-path-sum) |
