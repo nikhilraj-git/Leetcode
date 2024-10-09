@@ -154,6 +154,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/nikhilraj-git/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/nikhilraj-git/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
@@ -178,6 +179,7 @@
 | [0207-course-schedule](https://github.com/nikhilraj-git/Leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/nikhilraj-git/Leetcode/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/nikhilraj-git/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/nikhilraj-git/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/nikhilraj-git/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -211,6 +213,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nikhilraj-git/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0801-is-graph-bipartite](https://github.com/nikhilraj-git/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/nikhilraj-git/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Linked List
 |  |
@@ -241,6 +244,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/nikhilraj-git/Leetcode/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/nikhilraj-git/Leetcode/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
