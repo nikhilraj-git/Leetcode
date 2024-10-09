@@ -35,6 +35,7 @@
 | [0518-coin-change-ii](https://github.com/nikhilraj-git/Leetcode/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/nikhilraj-git/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/nikhilraj-git/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/nikhilraj-git/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nikhilraj-git/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -114,6 +115,7 @@
 | [0074-search-a-2d-matrix](https://github.com/nikhilraj-git/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/nikhilraj-git/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/nikhilraj-git/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/nikhilraj-git/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/nikhilraj-git/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -177,6 +180,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/nikhilraj-git/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/nikhilraj-git/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -207,6 +211,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nikhilraj-git/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1073-number-of-enclaves](https://github.com/nikhilraj-git/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Linked List
 |  |
 | ------- |
