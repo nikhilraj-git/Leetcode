@@ -1,34 +1,39 @@
 class Solution {
 public:
-    bool canFinish(int n, vector<vector<int>>& prerequisites) {
-        vector<int> adj[n];
-        vector<int> indegree(n, 0);
-        vector<int> ans;
+    bool canFinish(int V, vector<vector<int>>& prerequisites) {
+        vector<int> adj[V];
+        vector<int> indegree(V, 0);
 
-        for(auto x: prerequisites){
-            adj[x[0]].push_back(x[1]);
-            indegree[x[1]]++;
+        // Build the graph and calculate indegree
+        for (int i = 0; i < prerequisites.size(); i++) {
+            adj[prerequisites[i][1]].push_back(prerequisites[i][0]);
+            indegree[prerequisites[i][0]]++;
         }
 
         queue<int> q;
-        for(int i = 0; i < n; i++){
-            if(indegree[i] == 0){
+        // Push all nodes with indegree 0
+        for (int i = 0; i < V; i++) {
+            if (indegree[i] == 0) {
                 q.push(i);
             }
         }
 
-        while(!q.empty()){
-            auto t = q.front();
-            ans.push_back(t);
+        vector<int> ans;
+        // BFS for topological sort
+        while (!q.empty()) {
+            int node = q.front();
             q.pop();
+            ans.push_back(node);
 
-            for(auto x: adj[t]){
+            for (auto x : adj[node]) {
                 indegree[x]--;
-                if(indegree[x] == 0){
+                if (indegree[x] == 0) {
                     q.push(x);
                 }
             }
         }
-        return ans.size() == n;
+
+        // Check if topological sorting includes all courses
+        return ans.size() == V;
     }
 };
