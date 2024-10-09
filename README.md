@@ -148,6 +148,7 @@
 | [0100-same-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilraj-git/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0207-course-schedule](https://github.com/nikhilraj-git/Leetcode/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -171,6 +172,7 @@
 | [0100-same-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nikhilraj-git/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhilraj-git/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0207-course-schedule](https://github.com/nikhilraj-git/Leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/nikhilraj-git/Leetcode/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilraj-git/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -230,4 +232,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilraj-git/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/nikhilraj-git/Leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/nikhilraj-git/Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
