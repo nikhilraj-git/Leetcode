@@ -34,6 +34,7 @@
 | [0455-assign-cookies](https://github.com/nikhilraj-git/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/nikhilraj-git/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/nikhilraj-git/Leetcode/tree/master/0518-coin-change-ii) |
+| [0792-binary-search](https://github.com/nikhilraj-git/Leetcode/tree/master/0792-binary-search) |
 | [0967-minimum-falling-path-sum](https://github.com/nikhilraj-git/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/nikhilraj-git/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/nikhilraj-git/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -134,6 +135,7 @@
 | [0287-find-the-duplicate-number](https://github.com/nikhilraj-git/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nikhilraj-git/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj-git/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/nikhilraj-git/Leetcode/tree/master/0792-binary-search) |
 | [1753-path-with-minimum-effort](https://github.com/nikhilraj-git/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Stack
 |  |
