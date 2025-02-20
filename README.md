@@ -28,6 +28,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikhilraj-git/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nikhilraj-git/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/nikhilraj-git/Leetcode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/nikhilraj-git/Leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/nikhilraj-git/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/nikhilraj-git/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nikhilraj-git/Leetcode/tree/master/0283-move-zeroes) |
@@ -121,6 +122,7 @@
 | [0050-powx-n](https://github.com/nikhilraj-git/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/nikhilraj-git/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nikhilraj-git/Leetcode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/nikhilraj-git/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/nikhilraj-git/Leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
@@ -320,4 +322,12 @@
 |  |
 | ------- |
 | [1753-path-with-minimum-effort](https://github.com/nikhilraj-git/Leetcode/tree/master/1753-path-with-minimum-effort) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nikhilraj-git/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nikhilraj-git/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
