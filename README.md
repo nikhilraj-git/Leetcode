@@ -41,6 +41,7 @@
 | [0485-max-consecutive-ones](https://github.com/nikhilraj-git/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/nikhilraj-git/Leetcode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhilraj-git/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0735-asteroid-collision](https://github.com/nikhilraj-git/Leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/nikhilraj-git/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/nikhilraj-git/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/nikhilraj-git/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -160,6 +161,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhilraj-git/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilraj-git/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0735-asteroid-collision](https://github.com/nikhilraj-git/Leetcode/tree/master/0735-asteroid-collision) |
 ## Tree
 |  |
 | ------- |
@@ -252,6 +254,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nikhilraj-git/Leetcode/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/nikhilraj-git/Leetcode/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nikhilraj-git/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Memoization
 |  |
